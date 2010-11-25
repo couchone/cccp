@@ -33,7 +33,7 @@ Let me know if you have other uses for this.
 
 ## Author
 
-Jan Lehnardt <jan@apache.org> after an idea by Jason Smith <jhs@couchone.com>
+Jan Lehnardt <jan@apache.org> after an idea of Jason Smith <jhs@couchone.com>
 
 
 ## License
